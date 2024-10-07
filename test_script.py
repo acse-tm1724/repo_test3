@@ -8,4 +8,6 @@ def h(z)
     z**3
     return z
     
-    
+def j(b)
+    b += 10
+    return b
